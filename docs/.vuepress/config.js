@@ -10,7 +10,8 @@ module.exports = {
     nav: [
       { text: "RvNovae", link: "/" },
       { text: "Oliver Kogel", link: "/oliver/" },
-      { text: "Attributions", link: "/attributions/" }
+      { text: "Attributions", link: "/attributions/" },
+      { text: "Impressum", link: "/impressum/" }
     ],
     sidebar: {
       '/guide/': genSidebarConfig('Guide')

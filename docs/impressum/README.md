@@ -1,3 +1,9 @@
+---
+pageClass: home-page
+---
+
+<ProfileSection :frontmatter="$page.frontmatter" />
+
 # Impressum
 
 Angaben gemäß § 5 TMG
