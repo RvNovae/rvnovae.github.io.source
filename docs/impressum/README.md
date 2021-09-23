@@ -6,6 +6,8 @@ pageClass: home-page
 
 # Impressum
 
+---
+
 Angaben gemäß § 5 TMG
 
 rvnovae.com wird vertreten durch
