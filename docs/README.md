@@ -30,7 +30,7 @@ Most productions center around UK Hardcore, Trance and DnB but I also venture in
 
 ## Productions
 
-Always be on the lookout on [SoundCloud](https://soundcloud.com/rvnovae) for new music.
+Always be on the lookout on [YouTube](https://youtube.com/c/rvnovae) and [SoundCloud](https://soundcloud.com/rvnovae) for new music.
 
 If you are a DJ and would like to join my promo mailing list, feel free to message me.
 
