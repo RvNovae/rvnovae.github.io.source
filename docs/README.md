@@ -46,7 +46,7 @@ If you would like to book me for an event, please message me.
 <style lang="stylus">
 
 .theme-container.home-page .page
-  font-size 14px
+  font-size 16px
   font-family "lucida grande", "lucida sans unicode", lucida, "Helvetica Neue", Helvetica, Arial, sans-serif;
   p
     margin 0 0 0.5rem
