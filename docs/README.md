@@ -41,6 +41,18 @@ These shows are generally hosted in German.
 
 If you would like to book me for an event, please message me.
 
+## Featured in TechBeatHeart
+
+The small indie studio [Lost Machine Games](https://www.lostmachinegames.com/) reached out to me
+about having my music featured in their Shoot-Em-Up TechBeatHeart.
+I enjoyed working with them and would like to thank them for the opportunity.
+
+I still have a limited number of Steam-Keys that I received from them.
+If the game looks interesting to you, feel free to send me an email (or a DM on social media)
+and I'll send you one of the leftover keys!
+
+Check it out: [TechBeatHeart on Steam](https://store.steampowered.com/app/1520330/TechBeat_Heart/)
+
 <!-- Custom style for this page -->
 
 <style lang="stylus">
