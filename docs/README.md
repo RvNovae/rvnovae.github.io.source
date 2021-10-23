@@ -47,7 +47,7 @@ The small indie studio [Lost Machine Games](https://www.lostmachinegames.com/) r
 about having my music featured in their Shoot-Em-Up TechBeatHeart.
 I enjoyed working with them and would like to thank them for the opportunity.
 
-I still have a limited number of Steam-Keys that I received from them.
+I still have a limited number of Steam-Keys that I received from the developers.
 If the game looks interesting to you, feel free to send me an email (or a DM on social media)
 and I'll send you one of the leftover keys!
 
