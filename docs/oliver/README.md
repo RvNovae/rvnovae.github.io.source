@@ -16,7 +16,7 @@ email: rvnovae (at) gmail (dot) com
 I'm a guy with a passion for music and computers that is also quite interested in languages.
 Currently working on obtaining my bachelor's degree in software engineering.
 
-General experience with: **Kotlin, C/C++, PHP and Javascript**
+General experience with: **Kotlin, C/C++, PHP and JavaScript**
 
 Professional experience with: **C# and Java**
 
