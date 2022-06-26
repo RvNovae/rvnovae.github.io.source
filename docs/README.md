@@ -30,16 +30,16 @@ Most productions center around UK Hardcore, Trance and DnB but I also venture in
 
 ## Productions
 
-Always be on the lookout on [YouTube](https://youtube.com/c/rvnovae) and [SoundCloud](https://soundcloud.com/rvnovae) for new music.
+Always be on the lookout on [YouTube](https://youtube.com/c/rvnovae) [Bandcamp](http://rvnovae.bandcamp.com/) for new music.
 
 If you are a DJ and would like to join my promo mailing list, feel free to message me.
 
-## DJ shows
+<!-- ## DJ shows
 
 You can catch me live every Wednesday 19-21 German time on [rm.fm/happyhardcore](https://rm.fm/happyhardcore).
 These shows are generally hosted in German.
 
-If you would like to book me for an event, please message me.
+If you would like to book me for an event, please message me. -->
 
 ## Featured in TechBeatHeart
 
